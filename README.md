@@ -5,7 +5,7 @@ The portable version of One Commander Pro provides the flexibility to use the so
 - Fully Activated: Enjoy all the features of One Commander Pro without any limitations. The portable version is fully activated and ready to use.
 - PortableApps.com Packed: Packaged using PortableApps.com standards, ensuring compatibility and portability across different systems. You can run it directly from a USB drive or any other portable storage device.
 
-![One Commander Pro](https://www.onecommander.com/assets/images/onecommander-screen-laptop-dual.png)
+<img src= "https://www.onecommander.com/assets/images/onecommander-screen-laptop-dual.png">
 
 ## Features
 
